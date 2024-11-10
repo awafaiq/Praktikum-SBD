@@ -1,0 +1,1 @@
+ALTER TABLE penumpang ADD email VARCHAR(255);

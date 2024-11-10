@@ -1,0 +1,1 @@
+UPDATE pesawat SET Status_Pesawat = 'Aktif' WHERE ID_Pesawat = 'PKGHI3';

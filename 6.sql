@@ -1,0 +1,1 @@
+ALTER TABLE penumpang DROP COLUMN email;

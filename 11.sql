@@ -1,0 +1,1 @@
+DELETE FROM bagasi WHERE ID_Bagasi = 2;

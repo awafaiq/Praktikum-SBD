@@ -1,0 +1,1 @@
+UPDATE penerbangan SET Waktu_Keberangkatan = '2024-12-15 11:00:00', Waktu_sampai - '2024-12-15 13:30:00' WHERE ID_Penerbangan = 'FL0001';

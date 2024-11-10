@@ -1,0 +1,1 @@
+DELETE FROM penerbangan WHERE Status_penerbangan = 'Ditunda';
