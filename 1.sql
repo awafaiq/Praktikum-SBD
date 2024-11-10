@@ -16,7 +16,7 @@ CREATE TABLE `bandara` (
 ) 
 
 CREATE TABLE `bandara_penerbangan` (
-  `Bandara_ID` int NOT NULL,
+  `ID_Bandara` int NOT NULL,
   `Penerbangan_ID` char(6) NOT NULL
 ) 
 
