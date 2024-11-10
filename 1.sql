@@ -71,7 +71,7 @@ ALTER TABLE `bandara`
   ADD PRIMARY KEY (`ID_Bandara`);
 
 ALTER TABLE `bandara_penerbangan`
-  ADD PRIMARY KEY (`Bandara_ID`,`Penerbangan_ID`),
+  ADD PRIMARY KEY `Bandara_ID`,`Penerbangan_ID`,
   ADD KEY `Penerbangan_ID` (`Penerbangan_ID`);
 
 ALTER TABLE `maskapai`
